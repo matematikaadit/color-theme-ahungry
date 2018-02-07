@@ -266,7 +266,7 @@ Default value:
    '(magit-diffstat-removed ((t (:foreground "#ff0066"))))
    '(magit-diff-context-highlight ((t (:foreground "#ffffff"))))
    '(magit-section-heading ((t (:foreground "#ff0066"))))
-   '(magit-section-highlight ((t (:weight bold))));;:foreground "#ffffff"))))
+   '(magit-section-highlight ((t (:weight bold)))) ;;:foreground "#ffffff"))))
    '(minibuffer-prompt ((t (:foreground "#0055ff" :bold t))))
    '(web-mode-html-tag-bracket-face ((t (:foreground "#666666"))))
    '(helm-ff-directory ((t (:background "gold1" :foreground "#000000" :bold t))))
@@ -340,6 +340,9 @@ Default value:
 
    '(link ((t (:foreground "#af0"))))
    '(hackernews-link ((t (:foreground "#af0"))))
+
+   '(php-variable-sigil ((t (:foreground "#fa0" :bold nil :italic nil))))
+   '(php-variable-name ((t (:foreground "#fff" :bold nil :italic nil))))
    )
   (custom-theme-set-variables
    'ahungry
