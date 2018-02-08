@@ -318,8 +318,8 @@ Default value:
    '(avy-lead-face-0 ((t (:foreground "#cf0" :bold t))))
    '(avy-lead-face-1 ((t (:foreground "#09f" :bold t))))
    '(avy-lead-face-2 ((t (:foreground "#0ff" :bold t))))
-   '(eyebrowse-mode-line-active ((t (:bold t))))
-   '(eyebrowse-mode-line-inactive ((t (:bold nil))))
+   '(eyebrowse-mode-line-active ((t (:underline t :bold t :background "#af0" :foreground "#000"))))
+   '(eyebrowse-mode-line-inactive ((t (:bold nil :foreground "#af0"))))
 
    '(rainbow-delimiters-depth-1-face ((t (:foreground "#cf0"))))
    '(rainbow-delimiters-depth-2-face ((t (:foreground "#0cf"))))
