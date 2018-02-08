@@ -106,7 +106,7 @@
   "Ahungry Theme")
 
 (defvar ahungry-theme-font-settings
-  '(:family "Terminus" :foundry "xos4"
+  '(:family "Iosevka" :foundry "xos4"
             :slant normal :weight normal
             :height 130 :width normal)
   "If set to nil, will avoid overriding the user font settings.
