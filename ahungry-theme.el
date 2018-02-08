@@ -127,9 +127,9 @@ Default value:
    '(border ((t (:background "#888a85"))))
    '(fringe ((t (:background "#333333"))))
    '(error ((t (:foreground "Red1" :bold t))))
-   '(mode-line ((t (:foreground "#0022aa" :bold t :background "#77ff00"
+   '(mode-line ((t (:foreground "#af0" :bold t :background "#111"
                                 :box (:line-width 1 :color nil :style released-button)))))
-   '(mode-line-inactive ((t (:foreground "#444444" :background "#66ff33"))))
+   '(mode-line-inactive ((t (:foreground "#444444" :background "#222"))))
    '(mode-line-buffer-id ((t (:bold t :foreground "#ffffff" :background "#0055ff"))))
    '(powerline-active1 ((t (:foreground "#ffffff" :background "#222222"))))
    '(powerline-active2 ((t (:foreground "#ffffff" :background "#77ff00"))))
@@ -138,6 +138,7 @@ Default value:
    '(spaceline-flycheck-error ((t (:foreground "#ff0066" :background "#333333"))))
    '(spaceline-flycheck-info ((t (:foreground "#ffaa00" :background "#333333"))))
    '(spaceline-flycheck-warning ((t (:foreground "#ffaa00" :background "#333333"))))
+   '(my-buffer-face ((t (:foreground "#fff" :background "#06c"))))
    '(region ((t (:background "#444444"))))
    '(link ((t (:underline t :foreground "#33ff99"))))
    '(custom-link ((t (:inherit 'link))))
