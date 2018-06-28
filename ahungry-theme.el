@@ -154,7 +154,7 @@ Default value:
    '(font-lock-constant-face ((t (:foreground "#fff900"))))
    '(font-lock-doc-face ((t (:foreground "#777700" :bold nil :italic t))))
    '(font-lock-keyword-face ((t (:foreground "#06c" :bold t))))
-   '(font-lock-string-face ((t (:foreground "#0c6" :italic t :bold nil))))
+   '(font-lock-string-face ((t (:foreground "#0c6" :italic nil :bold nil))))
    '(font-lock-type-face ((t (:foreground "#f06" :bold t :italic nil))))
    '(font-lock-variable-name-face ((t (:foreground "#fa0" :bold t))))
    '(font-lock-warning-face ((t (:bold t :foreground "#ff0000"))))
