@@ -153,6 +153,7 @@ Default value:
    '(font-lock-comment-face ((t (:foreground "#888a85" :bold nil :italic t))))
    '(font-lock-constant-face ((t (:foreground "#fff900"))))
    '(font-lock-doc-face ((t (:foreground "#777700" :bold nil :italic t))))
+   '(clojure-keyword-face ((t (:foreground "#a6f000" :bold nil))))
    '(font-lock-keyword-face ((t (:foreground "#06c" :bold t))))
    '(font-lock-string-face ((t (:foreground "#0c6" :italic nil :bold nil))))
    '(font-lock-type-face ((t (:foreground "#f06" :bold t :italic nil))))
